@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-07-10T19:53:51.615+01:00
+  initializedAtString: 2020-07-10T19:52:37.796+01:00
+  log:
+  - commitID: 5326c3547388dda8819bc2dfc7b81d3a6c4fac82
+    mergeA: 
+    mergeB: 
+    authorName: Matei-A
+    authorEmail: ungureanumatei.a@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-07-05T14:33:19.000+01:00
+    commitTimeString: 2020-07-05T14:33:19.000+01:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\GameJam\GMTKGameJam2020\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
